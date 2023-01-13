@@ -1,0 +1,41 @@
+header{
+    
+    width: 100vw;
+    height: 100vh;
+    background-image:url('/x/img/4440012.jpg');
+    background-position:bottom ;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.ctn{
+    text-decoration: none;
+    /* text-Light; */
+}
+.header-candant{
+    margin-bottom: 45px;
+    text-align: center;
+    color: whitesmoke;
+}
+.header-candant h2{
+    font-size: 4vmin;
+}
+.line{
+    width: 150px;
+    height: 4px;
+    background: rgb(193 21 180);
+    margin: 10px auto;
+    border-radius: 5px;
+}
+.header-candant h1{
+    font-size: 7vmin;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.ctn{
+    padding: 8px 15px;
+    background-color: rgb(193 21 180);
+    color: whitesmoke;
+    border-radius: 25px;
+}
